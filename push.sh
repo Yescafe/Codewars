@@ -3,4 +3,4 @@
 git status
 git add -A
 git commit -m "Add new"
-git push origin main
+git push origin master
